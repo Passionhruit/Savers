@@ -76,6 +76,23 @@
 
 <br />
 
+### 성능 개선 (Lighthouse)
+
+🌱 중간발표 이전 (23.09.03) 성능 점수
+
+![image](https://github.com/Passionhruit/Savers/assets/92542456/fccb515f-a40c-4e64-81d8-6e7b894c3918)
+
+🍀 성능 개선작업  및 피드백 반영 이후 (23.09.12) 성능점수
+
+1. 불필요한 함수 및 console.log 제거
+2. 코드 스플리팅, 리팩토링
+3. 이미지 최적화 (Image 태그, alt 사용)
+4. 메인 동영상 용량 축소
+
+![image](https://github.com/Passionhruit/Savers/assets/92542456/49832b3b-41b0-4bd6-91d3-fe1972266086)
+
+
+
 ## 🌿 팀원 소개
 
 <img src="https://github.com/Savers-Save-Earth/Savers/assets/124491335/f8f6123c-b668-403e-88e1-2509a1888194" />
