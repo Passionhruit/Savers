@@ -14,6 +14,17 @@
 
 <br />
 
+## 🌿 담당 기능
+
+메인페이지 (스크롤 기능을 이용한 이용자의 관심유도 및 전체 카테고리를 인기순위로 나열)
+친환경 제품 페이지 (스와이퍼를 이용한 배너 및 제품에 대해 좋아요를 누를 수 있음)
+제품 상세페이지 (제품의 상세 정보 및 제품을 구매할수 있는 링크로 접속 가능)
+프로필 수정 (프로필 수정을 누르면 사진을 선택해서 닉네임 및 사진을 수정하고 업로드할 수 있음)
+일일미션 캘린더 배지 로직 (일일미션을 완료했을 시, react-calendar 를 이용해 잔디 스탬프가 해당 날짜에 찍히도록 구현, 배지에 해당하는 내용을 완료했을 시, 배지 얻어오기 구현)
+반응형 UI (메인, 헤더, 네비, 제품페이지, 제품 상세페이지 반응형 UI 구현)
+
+<br />
+
 ## 🌿 서비스 아키텍처
 
 <div align="center">
@@ -93,18 +104,4 @@
 
 
 
-## 🌿 팀원 소개
 
-<img src="https://github.com/Savers-Save-Earth/Savers/assets/124491335/f8f6123c-b668-403e-88e1-2509a1888194" />
-
-<br />
-<br />
-
-| 이름 | 역할 | GitHub | 블로그 | 이메일 |
-|:---:|:---:|--------------|------|-------|
-| 이은한 | 리더 | [TerryEHLee](https://github.com/TerryEHLee) | [Tistory](https://terryehlee.tistory.com/) | terryehlee@gmail.com |
-| 이우정 | 부리더 | [Passionhruit](https://github.com/Passionhruit) | [Tistory](https://passionfruit6.tistory.com/) | korea_stan@naver.com |    
-| 박지원 | 팀원 | [xoxojw](https://github.com/xoxojw) | [Tistroy](https://xoxojw.tistory.com/) | xoxojw.dev@gmail.com |
-| 이동준 | 팀원 | [podoDJ](https://github.com/podoDJ) | [Notion](https://florentine-shawl-685.notion.site/2f0a4e2eb99e46e984b0eb3cf8f4f9ca?v=e2972c99943a4bdab5f4251b20db3546&pvs=4) | leedj1345@naver.com |
-| 최다연 | 팀원 | [cheddaryeon](https://github.com/cheddaryeon) |  | cheddaryeon@gmail.com |
-| 한지희 | 디자이너 | - | [Portfolio - Google Drive](https://drive.google.com/file/d/12_woSM0IkUmUxK3ryJ5dpC7rXAspT7Uc/view?usp=sharing) | jeheem@naver.com |
