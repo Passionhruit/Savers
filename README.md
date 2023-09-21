@@ -91,16 +91,16 @@
 
   <img width="899" alt="image" src="https://github.com/Passionhruit/Savers/assets/92542456/a973c998-e524-47f3-ab46-f22a42f522e3">
 
-- 들어올때마다 스크롤을 여러번 내리기 힘들다 => 메인페이지에 skip 버튼 추가
+- 들어올때마다 스크롤을 여러번 내리기 힘들다 => 메인페이지에 skip 버튼 추가 <br/>
   <img width="174" alt="image" src="https://github.com/Passionhruit/Savers/assets/92542456/c9b448f8-a5e1-4396-a106-afe611ef0c98">
 
-- 일일미션에 대한 상세한 설명이 있었으면 좋겠다. => 인포메이션 추가
+- 일일미션에 대한 상세한 설명이 있었으면 좋겠다. => 인포메이션 추가<br/>
  <img width="762" alt="image" src="https://github.com/Passionhruit/Savers/assets/92542456/ea01cf4c-a639-451b-a457-fa5d94b0df85">
 
-- 데이터가 로드되는 동안 사용자 경험을 위해 skeleton UI 추가
+- 데이터가 로드되는 동안 사용자 경험을 위해 skeleton UI 추가<br/>
   <img width="599" alt="image" src="https://github.com/Passionhruit/Savers/assets/92542456/97c90124-7e08-4a03-8ce1-671a724ad482">
 
-- 반응형 UI 가 있었으면 좋겠다. => 반응형 UI 구현
+- 반응형 UI 가 있었으면 좋겠다. => 반응형 UI 구현<br/>
   <img width="338" alt="image" src="https://github.com/Passionhruit/Savers/assets/92542456/4298c8b2-461a-4d30-b053-d4ca977952ae">
 
   
