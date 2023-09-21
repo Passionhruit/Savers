@@ -87,7 +87,7 @@
 
 <br />
 
-## 👩🏻‍💻 유저 피드백 반영사항
+## 👩🏻‍💻 유저 피드백 반영사항 
 
   <img width="899" alt="image" src="https://github.com/Passionhruit/Savers/assets/92542456/a973c998-e524-47f3-ab46-f22a42f522e3">
 
@@ -120,6 +120,9 @@
 4. 메인 동영상 용량 축소
 
 ![image](https://github.com/Passionhruit/Savers/assets/92542456/49832b3b-41b0-4bd6-91d3-fe1972266086)
+
+<img width="623" alt="image" src="https://github.com/Passionhruit/Savers/assets/92542456/857ba8f6-72f8-4196-bdeb-5ba8a0b9c4f6">
+
 
 
 
